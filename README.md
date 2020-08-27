@@ -1,7 +1,9 @@
+# :strawberry:
+ 
+## Behind the green squares
 
-# Behind the green squares
-
-Quotes about me that people who I have worked with have said about me...
+<details>
+<summary>Quotes about me that people who I have worked with have said about me...</summary>
 
 > her perspective has been critical to our success and that of our clients. A consummate professional, she is crushingly competent   
 &mdash; President
@@ -24,3 +26,5 @@ Quotes about me that people who I have worked with have said about me...
 > Her passion for software quality, her work ethic, her leadership, and her drive to constantly adapt and learn, have all left an indelible mark on our company culture and approach to software development.   
 &mdash; CTO
 
+
+</details> 
