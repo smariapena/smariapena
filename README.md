@@ -1,4 +1,4 @@
-# :strawberry:
+# :green_heart:
  
 ## Behind the green squares
 
