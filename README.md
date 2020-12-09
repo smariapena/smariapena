@@ -1,6 +1,4 @@
-# :green_heart:
- 
-## Behind the green squares
+# :green_heart: Behind the green squares
 
 <details>
 <summary>Quotes about me that people who I have worked with have said about me...</summary>
